@@ -1,0 +1,16 @@
+teste UDP:
+
+- vai envolver manipulaçao de strings;
+	- informaçoes sobre as funçoes a usar no formulario;
+
+- Nao vai sair timeouts, em principio;
+	- se sair, tem todas as informaçoes no formulario;
+
+- Provavelmente tal e qual ao teste exemplo(chat server com 2 ou mais intervenientes);
+	-rever Fgets e condiçoes para gestao do tamanho da mensagem;
+
+- Resposta a pergunta teorica;
+	-tipos de perguntas teoricas?
+
+- Gestao de codigo em servidor e Cliente;
+	- rever o envio e resposta de datagramas (MSG);
